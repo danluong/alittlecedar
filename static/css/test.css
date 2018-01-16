@@ -1,4 +1,5 @@
-::selection {
-    text-shadow: none;
-    background: #f00;
+@media(min-width:768px) {
+    .navbar-default.navbar-shrink {
+        background-color: #f00;
+    }
 }
